@@ -1,4 +1,4 @@
-<h1>Assessment - BlogZone</h1>
+<h1>BlogEmpire</h1>
 <br/>
 This application implemented using MERN stack. React for front-end development and back-end server based on Node.js, Express, and MongoDB.
 <br/><br/>
